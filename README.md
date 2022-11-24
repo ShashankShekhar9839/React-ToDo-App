@@ -1,3 +1,7 @@
+#Simple to-do list using react components.
+State is managed by useState hook and filter method is used for deleting elements.
+Props are used for sending data.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
